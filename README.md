@@ -1,3 +1,7 @@
+#This is how the app looks like
+
+![Screen Shot 2023-02-04 at 10 27 00 PM](https://user-images.githubusercontent.com/60282806/216793174-7347bcf0-8bdd-4fa1-ab8d-824fff2d2695.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
